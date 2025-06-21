@@ -1,15 +1,16 @@
 <h1 align="center">Hello there 👋, I'm Tushar Gupta</h1>
-<h3 align="center">A passionate frontend developer and an aspiring blockchain developer from India</h3>
+<h3 align="center">A passionate software developer and an aspiring blockchain developer from India</h3>
+<h4 align="center">Comfortable in both web and app development with experience in variety of backend stacks and databases</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushargupta012735" alt="tushargupta012735" /></a> </p>
 
-- 🌱 I’m currently learning **anchor**
+- 🌱 I’m currently learning **ethereum**
 
-- 💬 Ask me about **rust, solana, blockchain development in general**
+- 💬 Ask me about **app, web or blockchain development**
 
 - 📫 How to reach me **kamalgupta11341@gmail.com**
 
-- ⚡ Fun fact **I think i am the best person to talk about anime**
+- ⚡ Fun fact **I think i am the best person to talk about anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
