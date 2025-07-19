@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kamalgupta11341@gmail.com**
 
-- ⚡ Fun fact **I think i am the best person to talk about anything**
+- ⚡ Fun fact **I think i am the best person to talk about rising techs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
