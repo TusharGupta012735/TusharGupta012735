@@ -14,7 +14,6 @@ from NFC-based attendance systems to distributed web services.
 - 🧠 Built **real-world systems** like NFC-based attendance tracking with validation & event mapping
 - 🌐 Comfortable across **full-stack development** (React + APIs + DB design)
 - ⚙️ Interested in **scalable architectures, multithreading, and system-level design**
-- 🌱 Currently exploring **Blockchain & Ethereum ecosystem**
 - 💬 Ask me about **Backend Development, APIs, System Design, or Flutter apps**
 - 📫 Reach me at: **kamalgupta11341@gmail.com**
 
