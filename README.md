@@ -71,13 +71,9 @@ from NFC-based attendance systems to distributed web services.
 
 ### 📊 GitHub Stats
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargupta012735&show_icons=true&locale=en&layout=compact" />
-</div>
+<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs?username=tushargupta012735&show_icons=true&locale=en&layout=compact" />
 
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargupta012735&show_icons=true&locale=en" />
-</div>
+<img align="center" src="https://github-readme-stats.shion.dev/api?username=tushargupta012735&show_icons=true&locale=en" />
 
 ---
 
